@@ -1,0 +1,26 @@
+/* sidebar-lat.css */
+
+.sidebar-lat {
+  background-color: rgba(200, 200, 200, 0.5);
+  padding: 20px;
+}
+
+.flex {
+  align-items: center;
+  padding: 1px;
+}
+
+.logo {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+  margin: 10px;
+}
+
+.nombre {
+  font-size: 2.5rem;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: middle;
+}

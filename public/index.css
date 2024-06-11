@@ -1,0 +1,8 @@
+body.background-enabled {
+    background-image: url('./IMG/r1.jpg');  /* Replace with your image path */
+    background-repeat: no-repeat;  /* Optional: Controls image repetition */
+    background-attachment: fixed;  /* Optional: Fixes image to viewport */
+    background-size: cover;       /* Optional: Adjusts image size to fit */
+    background-position: center;   /* Optional: Positions image in the body */
+  }
+  
