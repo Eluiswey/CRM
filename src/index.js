@@ -12,7 +12,7 @@ root.render(
     domain= "dev-rdoub3uob46ycuqh.us.auth0.com"
     clientId= "RBIAyNmUlPI3MQSC6lxydjoY4Rr6BWaK"
     authorizationParams={{
-      redirect_uri: window.location.origin
+      redirect_uri: "https://Eluiswey.github.io/CRM"
     }}
   >
       

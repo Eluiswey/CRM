@@ -4,7 +4,7 @@ import { useAuth0 } from '@auth0/auth0-react';
 export const LogoutButton = () => {
     const { logout } = useAuth0();
     return (
-        <button onClick={() => logout({ logoutParams: { returnTo: "https://username.github.io/your-app" } })}>
+        <button onClick={() => logout({ logoutParams: { returnTo: "https://Eluiswey.github.io/CRM" } })}>
             Logout
             </button>
     )
