@@ -18,8 +18,8 @@ export default function SidebarLat() {
         <div className="card flex justify-content-center">
             <Sidebar visible={visible} onHide={() => setVisible(false)} className="sidebar-lat">
                 <div className='flex flex-wrap align-items-center justify-content-between flex-shrink-0'>
-                <img src="/IMG/siu.webp" alt="Logo de BDS" className="logo" />
-                    <h2 className='nombre'>BDS</h2>
+                <img src="./Img/siu.webp" alt="Logo de CRM" className="logo" />
+                    <h2 className='nombre'>CRM</h2>
                 </div>
                 <hr className="mb-3 mx-3 border-top-1 border-none surface-border" />
                 <h2>Sidebar</h2>
